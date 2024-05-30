@@ -9,7 +9,7 @@
 💬 &nbsp;Always looking people in gamedev for networking\
 🖼️ Master of Paint.Net
 
-#### Expirience
+#### Experience
 👴 &nbsp;2 years commercial work at Unity\
 🎮 &nbsp;5 total years C#\
 💬 &nbsp;Master's degree of Information Technology\
