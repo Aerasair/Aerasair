@@ -19,7 +19,7 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-16188F?style=flat&logo=Csharp)&nbsp;
-![Scriptable_Object](https://img.shields.io/badge/-Scriptable_Object-16188F?style=flat)&nbsp;
+![Scriptable_Objects](https://img.shields.io/badge/-Scriptable_Objects-16188F?style=flat)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-96488F?style=flat&)&nbsp;
 ![Zenject](https://img.shields.io/badge/-Zenject-74B21A?style=flat&logo=zenject)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
