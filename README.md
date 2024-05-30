@@ -19,12 +19,13 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-16188F?style=flat&logo=Csharp)&nbsp;
-![Scriptable_Objects](https://img.shields.io/badge/-Scriptable_Objects-16188F?style=flat)&nbsp;
 ![OOP](https://img.shields.io/badge/-OOP-96488F?style=flat&)&nbsp;
 ![Zenject](https://img.shields.io/badge/-Zenject-74B21A?style=flat&logo=zenject)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=Rider)&nbsp;\
+![Scriptable_Objects](https://img.shields.io/badge/-Scriptable_Objects-16188F?style=flat)
+![Editor Scripting](https://img.shields.io/badge/-Editor_Scripting-16188F?style=flat)\
 External assets\
 ![Unity Essential Kit](https://img.shields.io/badge/-Unity_Essential_Kit-333333?style=flat)&nbsp;
 ![Google's play services](https://img.shields.io/badge/-Google's_play_services-333333?style=flat)&nbsp;
