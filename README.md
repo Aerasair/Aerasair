@@ -13,7 +13,7 @@
 👴 &nbsp;4 years commercial work at Unity\
 🎮 &nbsp;7 total years C#\
 💬 &nbsp;Master's degree of Information Technology\
-📄 &nbsp;Please have a look at my [Portfolio](https://drive.google.com/drive/folders/1IdW0B4-yrIjONpSTqVm7ZlyKrm5FeieQ)
+📄 &nbsp;Please have a look at my [Portfolio](https://drive.google.com/drive/folders/1IdW0B4-yrIjONpSTqVm7ZlyKrm5FeieQ?usp=drive_link)
 
 ### 🛠 &nbsp;Tech Stack
 
