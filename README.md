@@ -10,10 +10,10 @@
 🖼️ Master of Paint.Net
 
 #### Experience
-👴 &nbsp;2 years commercial work at Unity\
-🎮 &nbsp;5 total years C#\
+👴 &nbsp;4 years commercial work at Unity\
+🎮 &nbsp;7 total years C#\
 💬 &nbsp;Master's degree of Information Technology\
-📄 &nbsp;Please have a look at my [Portfolio](https://mega.nz/file/wMVSSb6D#FXHTYIViDNLKWvvQ1hP0gv9F0FR7zBPMR86Z14Rb5IE)
+📄 &nbsp;Please have a look at my [Portfolio](https://drive.google.com/drive/folders/1IdW0B4-yrIjONpSTqVm7ZlyKrm5FeieQ)
 
 ### 🛠 &nbsp;Tech Stack
 
